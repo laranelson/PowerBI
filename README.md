@@ -1,1 +1,2 @@
-Nesse repositório será colocado as pulicações e arquivos do curso de Power BI que estou fazendo na DSA.
+Compartilho nesse repositório Projetos, Laboratórios e Exercicios do Curso de Power BI da DSA (https://www.datascienceacademy.com.br)
+Os dados utilizados são todos fictícios.
